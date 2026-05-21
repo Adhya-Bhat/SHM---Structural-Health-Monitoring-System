@@ -312,10 +312,7 @@ Monitor:
 
 ## Cloud Integration
 
-* Firebase
 * MQTT
-* Supabase
-* AWS IoT
 
 ## AI-Based Analytics
 
